@@ -1,0 +1,1 @@
+programe_name/scopes/domains.txt
