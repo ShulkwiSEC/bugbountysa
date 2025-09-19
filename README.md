@@ -1,4 +1,4 @@
-# Bug Bounty SA CLI Tool
+# bugbounty.sa CLI Tool
 
 A command-line interface tool for managing and analyzing Bug Bounty SA programs. This tool helps security researchers track programs, analyze scopes, and extract domains from the Bug Bounty SA platform.
 
